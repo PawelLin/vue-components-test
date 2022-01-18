@@ -16,8 +16,8 @@ module.exports = {
       {
         libraryName: 'vue-pawel-ui',
         styleLibrary: {
-          name: 'themes',
-          base: false
+          name: 'themes'
+          // base: false
         }
       },
       'vue-pawel-ui'

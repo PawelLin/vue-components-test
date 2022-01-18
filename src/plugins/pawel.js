@@ -1,4 +1,6 @@
 import Vue from 'vue'
-import { Button } from 'vue-pawel-ui'
+import { Button, ImagePreview, PieChart } from 'vue-pawel-ui'
 
 Vue.use(Button)
+Vue.use(ImagePreview)
+Vue.use(PieChart)
